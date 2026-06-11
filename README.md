@@ -9,7 +9,7 @@ Autor: NourDabbagh
 
 ## HelloWorld Java Projekt
 
-Dieses Projekt ist eiin einfaches Java-Programm.
+Dieses Projekt ist ein einfaches Java-Programm.
 
 ## Beschreibung
 
@@ -33,5 +33,5 @@ javac Helloworld.java
 Danach wird das Programm gestartet:
 
 ```
-Java HelloWorld
+java HelloWorld
 ```
