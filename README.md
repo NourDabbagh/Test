@@ -13,7 +13,7 @@ Dieses Projekt ist ein einfaches Java-Programm.
 
 ## Beschreibung
 
-Das Programm gibt zwei Sätze auf der Konsole aus:
+Das Programm gibt zwei Sätze in der Konsole aus:
 - Hello Welt!
 - Wie geht es dir heute?
 
