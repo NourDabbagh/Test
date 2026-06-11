@@ -27,8 +27,11 @@ Helloworld.java
 
 Zuerst wird die Java-Datei kompiliert
 
+```
 javac Helloworld.java
-
+```
 Danach wird das Programm gestartet:
 
+```
 Java HelloWorld
+```
